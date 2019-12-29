@@ -1,0 +1,82 @@
+.the {
+  font-size: x-large;
+}
+html {
+  scroll-behavior: smooth;
+}
+#fit {
+  color: #3399ff;
+}
+#fis {
+  color: #003399;
+}
+.the a:hover {
+  color: #007aff;
+}
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #007aff;
+  color: white;
+  text-align: center;
+}
+.col {
+  padding-top: 60px;
+}
+.par {
+  padding-top: 60px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #0062cc;
+}
+.lit {
+  font-weight: bold;
+}
+#Explore-head-section {
+  background-color: rgb(100, 94, 94);
+  background-size: cover;
+  color: aliceblue;
+}
+.lead {
+  padding-right: 400px;
+  padding-left: 400px;
+  font-size: large;
+  font-weight: bold;
+}
+#filt {
+  margin-bottom: 100px;
+}
+.heas {
+  margin-bottom: 20px;
+}
+.circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  background: #333;
+  text-align: center;
+  font-size: 10px;
+  margin-left: 94%;
+  margin-bottom: 15px;
+}
+.footf {
+  border: 1px solid #ffffff;
+  border-radius: 50%;
+  display: inline;
+  padding: 5px;
+}
+.hang .fa {
+  font-size: 30px;
+  padding: 5px;
+}
+.mas {
+  padding-left: 140px;
+  padding-top: 30px;
+}
+#main-footer {
+  background-color: #007aff;
+}
+
